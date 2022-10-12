@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+}
+#main{
+    margin: auto;
+    background-color: rgba(pink, yellow, blue, 0.5);
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 25px;
+}
+.btn{
+    background-color: green;
+}
+#result{
+    margin: 0 auto;
+    width: fit-content; 
+    height: fit-content;
+    
+}
+#trb{
+    border: 1;
+    z-index: 100;
+}
+#total1{
+    background-color: yellow;
+    border: 1px solid black; 
+    padding: 3px;    
+    
+
+    
+}
+#total0{
+    border: 1px solid black; 
+    padding: 3px;
+    border-top: none;
+    
+}
+#gtotal{
+    float: bottom;
+    margin: 0 auto;
+    width: fit-content;
+    height: fit-content;
+}
+.texte-center{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
